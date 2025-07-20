@@ -17,7 +17,7 @@ QuickAI is a full-stack AI-powered web application that enables users to generat
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS (if used)
+- **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Authentication:** Clerk.dev
 - **Database:** Neon (PostgreSQL)
