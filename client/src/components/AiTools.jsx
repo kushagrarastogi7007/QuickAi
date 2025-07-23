@@ -19,7 +19,7 @@ const AiTools = () => {
                   <tool.Icon className='w-12 h-12 p-3 text-white rounded-xl' style={{background: `linear-gradient(to bottom, ${tool.bg.from}, ${tool.bg.to})`}}/>
                   <h3 className='mt-6 mb-3 text-lg font-semibold'>{tool.title}</h3>
                   <p className='text-gray-400 text-sm max-w-[95%]'>{tool.description}</p>
-                  <p className='mt-4 pl-1 text-sm bg-black text-white shadow-lg shadow-gray-400 w-20 rounded-sm'>{tool.info}</p>
+                  {/* <p className='mt-4 pl-1 text-sm bg-black text-white shadow-lg shadow-gray-400 w-20 rounded-sm'>{tool.info}</p> */}
                 </div>
             ))}
         </div>

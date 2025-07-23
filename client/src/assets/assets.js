@@ -55,16 +55,16 @@ export const AiToolsData = [
         Icon: Scissors,
         bg: { from: '#5C6AF1', to: '#427DF5' },
         path: '/ai/remove-object',
-        info: 'Upcoming..'
+        // info: 'Upcoming..'
     },
-    {
-        title: 'Resume Reviewer',
-        description: 'Get your resume reviewed by AI to improve your chances of landing your dream job.',
-        Icon: FileText,
-        bg: { from: '#12B7AC', to: '#08B6CE' },
-        path: '/ai/review-resume',
-        info: 'Upcoming..'
-    }
+    // {
+    //     title: 'Resume Reviewer',
+    //     description: 'Get your resume reviewed by AI to improve your chances of landing your dream job.',
+    //     Icon: FileText,
+    //     bg: { from: '#12B7AC', to: '#08B6CE' },
+    //     path: '/ai/review-resume',
+    //     info: 'Upcoming..'
+    // }
 ]
 
 export const dummyTestimonialData = [
